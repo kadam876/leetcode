@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kadam876/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kadam876/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kadam876/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kadam876/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kadam876/leetcode/tree/master/0169-majority-element) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kadam876/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/kadam876/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kadam876/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kadam876/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kadam876/leetcode/tree/master/0125-valid-palindrome) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kadam876/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kadam876/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kadam876/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kadam876/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
