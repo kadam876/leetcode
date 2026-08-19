@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kadam876/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kadam876/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kadam876/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kadam876/leetcode/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kadam876/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kadam876/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kadam876/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kadam876/leetcode/tree/master/0125-valid-palindrome) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kadam876/leetcode/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kadam876/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
