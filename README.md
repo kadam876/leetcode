@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kadam876/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kadam876/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
